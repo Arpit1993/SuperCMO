@@ -1,0 +1,48 @@
+[
+    {
+        "metric": "Clicks",
+        "value": 837,
+        "growthPercentage": -42.9
+    },
+    {
+        "metric": "CPM",
+        "value": "$22.49",
+        "growthPercentage": 8.3
+    },
+    {
+        "metric": "CPP",
+        "value": "$31.61",
+        "growthPercentage": 22.8
+    },
+    {
+        "metric": "CTR",
+        "value": "0.87%",
+        "growthPercentage": -3.3
+    },
+    {
+        "metric": "Frequency",
+        "value": 1.41,
+        "growthPercentage": 13.5
+    },
+    {
+        "metric": "Impressions",
+        "value": 95800,
+        "growthPercentage": -40.9
+    },
+    {
+        "metric": "Reach",
+        "value": 68200,
+        "growthPercentage": -47.9
+    },
+    {
+        "metric": "Spend",
+        "value": 2154.25,
+        "growthPercentage": 36.1
+    },
+    {
+        "metric": "Unique Clicks",
+        "value": 732,
+        "growthPercentage": -47.8
+    }
+
+]
